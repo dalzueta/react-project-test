@@ -14,3 +14,4 @@ const Square = ({ children, index, board, updateBoardFundtion, isActive }) => {
 };
 
 export default Square;
+sadasdsa;
